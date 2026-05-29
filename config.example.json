@@ -1,0 +1,20 @@
+{
+  "user_id": "user1",
+  "transport_mode": "network",
+  "hub_address": "localhost:8080",
+  "data_dir": "data",
+  "db_path": "data/chat.db",
+  "log_level": "INFO",
+  "enable_debug": false,
+  "log_to_file": false,
+  "log_file_path": "logs/chat.log",
+  "enable_reconnect": true,
+  "reconnect_interval": 5,
+  "connection_timeout": 30,
+  "enable_encryption": true,
+  "encryption_version": "aes-256-gcm",
+  "window_width": 1200,
+  "window_height": 700,
+  "theme": "light",
+  "extra": {}
+}

@@ -1,0 +1,11 @@
+Team Chat Launcher is released as a public-interest open-source project.
+
+The maintainers do not provide a public hosted messaging service, hosted relay,
+paid subscription, managed communication platform, or third-party commercial
+service commitment.
+
+This release does not include payment-provider configuration, deployment
+tokens, private server settings, or managed-service credentials.
+
+Third-party dependency license notices should be reviewed and supplemented
+before any packaged redistribution.
